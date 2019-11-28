@@ -1,5 +1,7 @@
 # D3Angular
 
+LiveDemo: https://weather-data-visualization.firebaseapp.com/
+
 New package to install
 npm i @swimlane/ngx-charts --save
 
